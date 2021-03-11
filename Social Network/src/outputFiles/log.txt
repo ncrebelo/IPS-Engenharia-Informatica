@@ -1,0 +1,1294 @@
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1| InterestId: 17
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 1 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 2| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 2| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 2| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 2| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 2| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 2| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 2 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 1| Existing User: 2| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 5| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 5| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 5| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 5| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 5 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 1| Existing User: 5| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 6 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 1| Existing User: 6| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 14| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 14| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 14| InterestId: 17
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 14| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 14 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 1| Existing User: 14| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 17 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 1| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 27 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 1| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 32| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 32| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 32| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 32| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 32| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 32| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 32 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 1| Existing User: 32| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 1| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 6| Number of Shared Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 13| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 13| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 13| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 13| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 13| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 13| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 13 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 13| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 18| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 18| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 18| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 18| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 18 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 25| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 25| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 25| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 25| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 25| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 25 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 37 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 38 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 38| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 40| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 40| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 40| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 40| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 40| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 40 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 40| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 45| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 45| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 45| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 45| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 45 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 45| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 48| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 48| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 48| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 48| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 48 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 48| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 50| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 50| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 50| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 50| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 50 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 2| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 3| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 3| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 3| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 3| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 3| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 3 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 2| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 11| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 11| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 11 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 21| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 21| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 21| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 21| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 21 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 21| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 23| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 23| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 23| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 23| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 23| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 23| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 23 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 28| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 28| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 28| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 28| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 28 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 28| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 38| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 41 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 41| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 43| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 43| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 43| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 43| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 43| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 43| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 43 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 43| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 45| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 3| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 4| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 4| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 4| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 4| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 4 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 7| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 7 | N. of Relations: 0 | Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 4| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 10| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 10| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 10| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 10 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 4| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 4| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 4| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 26| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 26| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 26| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 26 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 4| Existing User: 26| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 4| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 49| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 49| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 49| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 49 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 4| Existing User: 49| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 3| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 16| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 16| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 16| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 16| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 16| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 16 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 16| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 17| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 22| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 22| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 22| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 22| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 22| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 22 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 22| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 5| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 6| Existing User: 5| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 20| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 20| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 20| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 20| InterestId: 18
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 20| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 20 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 6| Existing User: 20| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 6| Existing User: 22| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 6| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 39| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 39| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 39| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 39| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 39| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 39| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 39 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 6| Existing User: 39| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 7| Existing User: 6| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 24| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 24| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 24| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 24 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 7| Existing User: 24| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 7| Existing User: 38| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 42| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 42| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 42| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 42| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 42 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 7| Existing User: 42| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 44| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 44 | N. of Relations: 0 | Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 7| Existing User: 44| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 7| Existing User: 50| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 8| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 8| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 8| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 8| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 8| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 8 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 8| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 8| Existing User: 22| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 8| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 8| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9| InterestId: 17
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 9 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 5| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 6| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 26| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 31| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 31| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 31 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 31| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 33| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 33| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 33 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 36| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 36| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 36 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 36| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 38| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 9| Existing User: 50| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 6| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 39| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 41| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 46| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 46| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 46| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 46| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 46 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 46| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 10| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 11| Existing User: 22| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 11| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 11| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 47| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 47| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 47| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 47| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 47 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 11| Existing User: 47| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12| InterestId: 20
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 12 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 4| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 9| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 13| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 14| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 18| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 23| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 25| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 27| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 12| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 7| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 10| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 28| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 34| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 34| InterestId: 7
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 34| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 34| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 34| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 34 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 34| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 35| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 35| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 35| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 35| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 35 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 35| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 36| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 39| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 41| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 13| Existing User: 44| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 12| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 15| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 15| InterestId: 9
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 15| InterestId: 10
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 15| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 15| InterestId: 15
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 15| InterestId: 17
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 15 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 15| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 17| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 31| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 14| Existing User: 40| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 15| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 4
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 5
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 11
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 12
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 13
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29| InterestId: 19
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 29 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 15| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 15| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 15| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 15| Existing User: 45| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 15| Existing User: 50| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 16| Existing User: 4| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 16| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 16| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 30| InterestId: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 30| InterestId: 16
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 30 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 16| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 16| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 17| Existing User: 32| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 17| Existing User: 36| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 17| Existing User: 45| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 18| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 18| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 18| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 18| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 18| Existing User: 40| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 18| Existing User: 49| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 18| Existing User: 50| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 19| InterestId: 3
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 19| InterestId: 6
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 19| InterestId: 8
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 19| InterestId: 14
+Fri Jan 29 00:52:11 WET 2021 >  | UserId: 19 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 19| Existing User: 2| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 19| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 19| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 19| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 20| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 20| Existing User: 19| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 20| Existing User: 22| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 20| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 20| Existing User: 39| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 4| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 12| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 13| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 15| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 28| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 37| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 40| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 47| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 21| Existing User: 48| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 6| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 28| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 32| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 35| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 22| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 3| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 19| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 26| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 36| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 39| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 42| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 45| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 23| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 24| Existing User: 5| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 24| Existing User: 10| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 24| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 24| Existing User: 34| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 24| Existing User: 43| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 25| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 25| Existing User: 3| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 25| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 25| Existing User: 16| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 25| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 25| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 25| Existing User: 49| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 26| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 26| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 26| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 26| Existing User: 24| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 26| Existing User: 28| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 26| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 26| Existing User: 39| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 5| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 21| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 26| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 38| Number of Shared Interests: 6
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 42| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 43| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 27| Existing User: 50| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 28| Existing User: 8| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 28| Existing User: 9| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 28| Existing User: 15| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 28| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 28| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 28| Existing User: 32| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 28| Existing User: 34| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 5| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 8| Number of Shared Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 15| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 20| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 23| Number of Shared Interests: 5
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 36| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 29| Existing User: 45| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 30| Existing User: 1| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 30| Existing User: 2| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 30| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 30| Existing User: 47| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 31| Existing User: 6| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 31| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 31| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 31| Existing User: 34| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 31| Existing User: 38| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 31| Existing User: 44| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 31| Existing User: 47| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 32| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 32| Existing User: 3| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 32| Existing User: 7| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 32| Existing User: 13| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 32| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 32| Existing User: 40| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 33| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 33| Existing User: 31| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 33| Existing User: 40| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 15| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 23| Number of Shared Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 25| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 39| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 44| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 34| Existing User: 49| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 35| Existing User: 3| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 35| Existing User: 9| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 35| Existing User: 17| Number of Shared Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 35| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 35| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 35| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 4| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 6| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 9| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 12| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 18| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 20| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 21| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 35| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 37| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 42| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 36| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 37| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 37| Existing User: 4| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 37| Existing User: 7| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 37| Existing User: 12| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 37| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 37| Existing User: 32| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 37| Existing User: 38| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 38| Existing User: 1| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 38| Existing User: 11| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 38| Existing User: 17| Number of Shared Interests: 4
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 38| Existing User: 20| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 38| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 38| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 38| Existing User: 44| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 3| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 17| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 18| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 29| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 36| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 41| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 39| Existing User: 48| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 40| Existing User: 9| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 40| Existing User: 10| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 40| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 40| Existing User: 25| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 40| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 40| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 40| Existing User: 44| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 41| Existing User: 19| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 41| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 41| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 41| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 6| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 15| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 19| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 27| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 46| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 42| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 16| Number of Shared Interests: 3
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 28| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 30| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 32| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 43| Existing User: 40| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 1| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 5| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 8| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 9| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 17| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 44| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 45| Existing User: 6| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 45| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 45| Existing User: 9| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 45| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 45| Existing User: 49| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 46| Existing User: 2| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 46| Existing User: 8| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 46| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 46| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 46| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 46| Existing User: 43| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 46| Existing User: 48| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 47| Existing User: 2| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 47| Existing User: 4| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 47| Existing User: 10| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 47| Existing User: 12| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 47| Existing User: 24| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 48| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 48| Existing User: 25| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 48| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 48| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 48| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 25| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 37| Number of Shared Interests: 0
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 49| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 50| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 50| Existing User: 11| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 50| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 50| Existing User: 16| Number of Shared Interests: 1
+Fri Jan 29 00:52:11 WET 2021 >  | Added User: 50| Existing User: 31| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1| InterestId: 17
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 1 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 2| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 2| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 2| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 2| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 2| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 2| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 2 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 1| Existing User: 2| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 5| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 5| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 5| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 5| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 5 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 1| Existing User: 5| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 6 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 1| Existing User: 6| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 14| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 14| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 14| InterestId: 17
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 14| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 14 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 1| Existing User: 14| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 17 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 1| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 27 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 1| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 32| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 32| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 32| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 32| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 32| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 32| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 32 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 1| Existing User: 32| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 1| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 6| Number of Shared Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 13| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 13| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 13| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 13| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 13| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 13| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 13 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 13| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 18| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 18| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 18| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 18| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 18 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 25| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 25| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 25| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 25| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 25| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 25 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 37 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 38 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 38| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 40| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 40| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 40| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 40| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 40| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 40 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 40| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 45| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 45| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 45| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 45| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 45 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 45| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 48| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 48| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 48| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 48| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 48 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 48| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 50| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 50| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 50| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 50| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 50 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 2| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 3| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 3| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 3| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 3| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 3| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 3 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 2| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 11| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 11| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 11 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 21| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 21| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 21| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 21| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 21 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 21| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 23| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 23| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 23| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 23| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 23| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 23| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 23 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 28| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 28| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 28| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 28| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 28 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 28| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 38| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 41 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 41| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 43| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 43| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 43| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 43| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 43| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 43| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 43 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 43| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 45| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 3| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 4| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 4| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 4| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 4| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 4 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 7| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 7 | N. of Relations: 0 | Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 4| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 10| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 10| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 10| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 10 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 4| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 4| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 4| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 26| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 26| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 26| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 26 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 4| Existing User: 26| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 4| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 49| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 49| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 49| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 49 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 4| Existing User: 49| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 3| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 16| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 16| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 16| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 16| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 16| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 16 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 16| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 17| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 22| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 22| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 22| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 22| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 22| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 22 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 22| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 5| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 6| Existing User: 5| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 20| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 20| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 20| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 20| InterestId: 18
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 20| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 20 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 6| Existing User: 20| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 6| Existing User: 22| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 6| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 39| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 39| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 39| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 39| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 39| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 39| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 39 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 6| Existing User: 39| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 7| Existing User: 6| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 24| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 24| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 24| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 24 | N. of Relations: 0 | Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 7| Existing User: 24| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 7| Existing User: 38| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 42| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 42| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 42| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 42| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 42 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 7| Existing User: 42| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 44| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 44 | N. of Relations: 0 | Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 7| Existing User: 44| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 7| Existing User: 50| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 8| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 8| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 8| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 8| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 8| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 8 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 8| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 8| Existing User: 22| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 8| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 8| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9| InterestId: 17
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 9 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 5| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 6| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 26| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 31| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 31| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 31 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 31| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 33| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 33| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 33 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 36| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 36| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 36 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 36| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 38| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 9| Existing User: 50| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 6| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 39| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 41| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 46| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 46| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 46| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 46| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 46 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 46| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 10| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 11| Existing User: 22| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 11| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 11| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 47| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 47| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 47| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 47| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 47 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 11| Existing User: 47| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12| InterestId: 20
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 12 | N. of Relations: 0 | Interests: 7
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 4| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 9| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 13| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 14| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 18| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 23| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 25| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 27| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 12| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 7| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 10| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 28| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 34| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 34| InterestId: 7
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 34| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 34| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 34| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 34 | N. of Relations: 0 | Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 34| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 35| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 35| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 35| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 35| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 35 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 35| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 36| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 39| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 41| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 13| Existing User: 44| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 12| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 15| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 15| InterestId: 9
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 15| InterestId: 10
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 15| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 15| InterestId: 15
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 15| InterestId: 17
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 15 | N. of Relations: 0 | Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 15| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 17| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 31| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 14| Existing User: 40| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 15| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 4
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 5
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 11
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 12
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 13
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29| InterestId: 19
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 29 | N. of Relations: 0 | Interests: 8
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 15| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 15| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 15| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 15| Existing User: 45| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 15| Existing User: 50| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 16| Existing User: 4| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 16| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 16| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 30| InterestId: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 30| InterestId: 16
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 30 | N. of Relations: 0 | Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 16| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 16| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 17| Existing User: 32| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 17| Existing User: 36| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 17| Existing User: 45| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 18| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 18| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 18| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 18| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 18| Existing User: 40| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 18| Existing User: 49| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 18| Existing User: 50| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 19| InterestId: 3
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 19| InterestId: 6
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 19| InterestId: 8
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 19| InterestId: 14
+Fri Jan 29 00:52:12 WET 2021 >  | UserId: 19 | N. of Relations: 0 | Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 19| Existing User: 2| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 19| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 19| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 19| Existing User: 25| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 20| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 20| Existing User: 19| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 20| Existing User: 22| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 20| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 20| Existing User: 39| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 4| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 12| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 13| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 15| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 28| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 37| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 40| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 47| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 21| Existing User: 48| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 6| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 28| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 32| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 35| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 22| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 3| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 19| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 26| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 36| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 39| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 42| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 45| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 23| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 24| Existing User: 5| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 24| Existing User: 10| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 24| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 24| Existing User: 34| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 24| Existing User: 43| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 25| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 25| Existing User: 3| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 25| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 25| Existing User: 16| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 25| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 25| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 25| Existing User: 49| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 26| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 26| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 26| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 26| Existing User: 24| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 26| Existing User: 28| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 26| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 26| Existing User: 39| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 5| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 21| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 26| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 38| Number of Shared Interests: 6
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 42| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 43| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 27| Existing User: 50| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 28| Existing User: 8| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 28| Existing User: 9| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 28| Existing User: 15| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 28| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 28| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 28| Existing User: 32| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 28| Existing User: 34| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 5| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 8| Number of Shared Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 15| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 20| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 23| Number of Shared Interests: 5
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 36| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 29| Existing User: 45| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 30| Existing User: 1| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 30| Existing User: 2| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 30| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 30| Existing User: 47| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 31| Existing User: 6| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 31| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 31| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 31| Existing User: 34| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 31| Existing User: 38| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 31| Existing User: 44| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 31| Existing User: 47| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 32| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 32| Existing User: 3| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 32| Existing User: 7| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 32| Existing User: 13| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 32| Existing User: 17| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 32| Existing User: 40| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 33| Existing User: 7| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 33| Existing User: 31| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 33| Existing User: 40| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 15| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 23| Number of Shared Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 25| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 38| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 39| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 44| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 34| Existing User: 49| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 35| Existing User: 3| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 35| Existing User: 9| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 35| Existing User: 17| Number of Shared Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 35| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 35| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 35| Existing User: 46| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 4| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 6| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 9| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 12| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 14| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 18| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 20| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 21| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 35| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 37| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 42| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 36| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 37| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 37| Existing User: 4| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 37| Existing User: 7| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 37| Existing User: 12| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 37| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 37| Existing User: 32| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 37| Existing User: 38| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 38| Existing User: 1| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 38| Existing User: 11| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 38| Existing User: 17| Number of Shared Interests: 4
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 38| Existing User: 20| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 38| Existing User: 33| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 38| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 38| Existing User: 44| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 3| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 17| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 18| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 29| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 36| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 41| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 39| Existing User: 48| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 40| Existing User: 9| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 40| Existing User: 10| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 40| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 40| Existing User: 25| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 40| Existing User: 31| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 40| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 40| Existing User: 44| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 41| Existing User: 19| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 41| Existing User: 26| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 41| Existing User: 27| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 41| Existing User: 48| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 6| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 15| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 19| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 20| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 27| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 29| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 46| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 42| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 16| Number of Shared Interests: 3
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 18| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 23| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 28| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 30| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 32| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 43| Existing User: 40| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 1| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 5| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 8| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 9| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 17| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 44| Existing User: 32| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 45| Existing User: 6| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 45| Existing User: 8| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 45| Existing User: 9| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 45| Existing User: 28| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 45| Existing User: 49| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 46| Existing User: 2| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 46| Existing User: 8| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 46| Existing User: 11| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 46| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 46| Existing User: 30| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 46| Existing User: 43| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 46| Existing User: 48| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 47| Existing User: 2| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 47| Existing User: 4| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 47| Existing User: 10| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 47| Existing User: 12| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 47| Existing User: 24| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 48| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 48| Existing User: 25| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 48| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 48| Existing User: 37| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 48| Existing User: 50| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 1| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 10| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 21| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 25| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 33| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 37| Number of Shared Interests: 0
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 41| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 49| Existing User: 43| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 50| Existing User: 1| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 50| Existing User: 11| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 50| Existing User: 13| Number of Shared Interests: 2
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 50| Existing User: 16| Number of Shared Interests: 1
+Fri Jan 29 00:52:12 WET 2021 >  | Added User: 50| Existing User: 31| Number of Shared Interests: 0
