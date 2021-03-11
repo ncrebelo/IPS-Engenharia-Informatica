@@ -1,0 +1,17 @@
+_id,clientId,productId,comment,rating,date
+1,64,210,Great Item,4,2016-07-07
+2,300,300,It broke after one use,1,2017-08-19
+3,300,212,Best product on the market,5,2018-06-30
+4,300,430,Great product,4,2018-06-30
+5,105,300,Not sure what to think about it,3,2018-07-31
+6,3,253,Love it,5,2017-05-14
+7,3,331,Best bike i ever had,5,2017-05-14
+8,1054,350,Delivery time was horrible,3,2016-11-20
+9,600,265,It's Ok,3,208-02-01
+10,3560,450,Product was broken on arrival. Sent email to request return and money back,1,2017-08-15
+11,1,300, Best purchase ever,5,2019-03-12
+12,164,300,Dissapointed,2,2018-01-31
+13,444,300,Hate it,1,2018-05-31
+14,555,255,It's OK,3,2017-06-03
+15,999,333,Love it,5,2018-06-19
+16,1500,292,%@!&% this company,0,2019-01-15

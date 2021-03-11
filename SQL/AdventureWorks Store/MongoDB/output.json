@@ -1,0 +1,19 @@
+{"C":
+{"E": [
+{"_id":1,"clientId":64,"productId":210,"comment":"Great Item","rating":4,"date":"2016-07-07"},
+{"_id":2,"clientId":300,"productId":300,"comment":"It broke after one use","rating":1,"date":"2017-08-19"},
+{"_id":3,"clientId":300,"productId":212,"comment":"Best product on the market","rating":5,"date":"2018-06-30"},
+{"_id":4,"clientId":300,"productId":430,"comment":"Great product","rating":4,"date":"2018-06-30"},
+{"_id":5,"clientId":105,"productId":300,"comment":"Not sure what to think about it","rating":3,"date":"2018-07-31"},
+{"_id":6,"clientId":3,"productId":253,"comment":"Love it","rating":5,"date":"2017-05-14"},
+{"_id":7,"clientId":3,"productId":331,"comment":"Best bike i ever had","rating":5,"date":"2017-05-14"},
+{"_id":8,"clientId":1054,"productId":350,"comment":"Delivery time was horrible","rating":3,"date":"2016-11-20"},
+{"_id":9,"clientId":600,"productId":265,"comment":"It's Ok","rating":3,"date":"2018-02-01"},
+{"_id":10,"clientId":3560,"productId":450,"comment":"Product was broken on arrival. Sent email to request return and money back","rating":1,"date":"2017-08-15"},
+{"_id":11,"clientId":1,"productId":300,"comment":"Best purchase ever","rating":5,"date":"2019-03-12"},
+{"_id":12,"clientId":164,"productId":300,"comment":"Dissapointed","rating":2,"date":"2018-01-31"},
+{"_id":13,"clientId":444,"productId":300,"comment":"Hate it","rating":1,"date":"2018-05-31"},
+{"_id":14,"clientId":555,"productId":255,"comment":"It's OK","rating":3,"date":"2017-06-03"},
+{"_id":15,"clientId":999,"productId":333,"comment":"Love it","rating":5,"date":"2018-06-19"},
+{"_id":16,"clientId":1500,"productId":292,"comment":"%@!&% this company","rating":0,"date":"2019-01-15"}
+]}}
