@@ -1,0 +1,523 @@
+
+
+/*
+    Widget Section
+*/
+
+.widget{
+    background-color: teal;
+    border-color: black;
+    border-style: ridge;
+    border-bottom-right-radius: 65px;
+    border-top-left-radius: 65px;
+    bottom: 11px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    height: 70px;
+    position: fixed;
+    right: 11px;
+    z-index: 20000;
+}
+
+.pill-body{
+    padding-left: 29px;
+    padding-right: 32px;
+    padding-top: 21px;
+}
+
+.pill-body-title{
+    color: white;
+}
+
+.pill-body-description{
+    color: black;
+    font-weight: 400;
+}
+
+#backgroundImage{
+    padding-top: 100px;
+}
+
+#siteWrapper{
+    box-sizing: border-box;
+    position: relative;
+}
+
+#header{
+    box-sizing: border-box;
+    display: block;
+    left: 0px;
+    line-height: 1em;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    z-index: 1000;
+}
+
+.inner-header{
+    box-sizing: border-box;
+    display: table;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 20px;
+    width: 100%;
+}
+
+#logo-wrapper{
+    vertical-align: middle;
+    width: 140px;    
+}
+
+#logo{
+    height: 80px;
+    width:100px
+}
+
+#headerNav{
+    box-sizing: border-box;
+    display: table-cell;
+    line-height: 1em;
+    text-align: right;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: auto;
+}
+
+#mainNavWrapper{
+    display: inline-block;
+    position: relative;
+    z-index: 1000;
+}
+
+#mainNavigation{
+    display: block;
+}
+
+.homepage{
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.homepage a   {
+    background-clip: border-box;
+    background-size: auto;
+    color: black;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 13px;
+    padding-bottom: 9.75px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 9.75px;
+    text-align: right;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.news{
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.news a   {
+    background-clip: border-box;
+    background-size: auto;
+    color: black;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 13px;
+    padding-bottom: 9.75px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 9.75px;
+    text-align: right;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.subnav{
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    position: relative;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.subnavbtn{
+    background-clip: border-box;
+    background-size: auto;
+    color: black;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 13px;
+    padding-bottom: 9.75px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 9.75px;
+    text-align: right;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.subnav-content{
+    display: none;
+    position: absolute;
+    min-width: 50px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.subnav-content a{
+    color: black;
+    font-size: 12px;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.subnav:hover .subnav-content {
+    display: block;
+}
+
+#page{
+    box-sizing: border-box;
+    display: block;
+    margin-left: 164.5px;
+    margin-right: 164.5px;
+    padding-bottom: 96px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 96px;
+}
+
+#backgroundImgRecipies{
+    height: max-content;
+    min-width: 111%;
+}
+
+#backgroundImgNews{
+    height: min-content;
+    min-width: 150%;
+}
+
+#backgroundImgSubmit{
+    max-height: 100px;
+    padding-top: 100px;
+}
+
+#backgroundImgGame{
+    padding-top: 100px;
+    height: 10%;
+    min-width: 100%;
+}
+
+.contentNav{
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 28.8px;    
+    padding-right: 50px;
+}
+
+.linkCollectionHeader{
+    color: rgb(0, 116, 107);
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: normal;
+    list-style-type: none;
+    margin-bottom: 11px;
+    text-decoration: rgb(0, 116, 107);
+    text-decoration-color: rgb(0, 116, 107);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+}
+
+.linkCollection{
+    list-style-type: none;
+}
+
+.linkCollection .active{
+    color: black;
+    
+}
+
+.contentNav a{
+    color: rgba(26, 26, 26, 0.4);
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 17.5px;
+    list-style-type: none;
+    padding-bottom: 10.5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    text-decoration: rgba(26, 26, 26, 0.4);
+    text-decoration-color: rgba(26, 26, 26, 0.4);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+}
+
+
+.mainContent{
+    color: rgba(26, 26, 26, 0.7);
+    display: inline-block;
+    font-family: adobe-garamond-pro;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 28.8px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    vertical-align: top;
+    width: 680px;
+}
+
+.cHeader h1{
+    color:maroon;
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 38.4px;
+    margin-bottom: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+    text-align: center;
+    white-space: pre-wrap;
+}
+
+.contentRecipies{
+    display: inline-block;
+    line-height: 28.8px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    vertical-align: top;
+    width: 680px;
+}
+
+.image{
+    height: 250px;
+    width: 680px;
+}
+
+.introText h2{
+    margin-top: -1px;
+}
+
+.introText h3{
+    font-size: 20px;
+    margin-top: -1px;
+}
+
+.introText p{
+    color: rgb(61, 153, 145);
+    margin-top: -25px;
+    text-decoration: rgb(61, 153, 145);
+    text-decoration-color: rgb(61, 153, 145);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+}
+
+.prefooter{
+    background-color: #f7f7f7; 
+}
+
+.pre-footer-information{
+    width: auto;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.preFooterBlock{
+    padding: 32px;
+    box-sizing: border-box;
+}
+
+.newsletter-form{
+    text-align: center;
+    font-size: 15px;
+}
+
+.newsletter-form-header{
+    width: 85%;
+    margin: auto;
+    color: black;
+}
+
+.newsletter-form-field{
+    display: inline-block;
+}
+
+.buttonWrapper{
+    display: inline-block;
+    width: auto;
+    padding: 6px 3px;
+}
+
+.newsletter-form-submit-button{
+    background-color: black;
+    border: 1px solid #262626 !important;
+    border-bottom-left-radius: 65px;
+    border-bottom-right-radius: 65px;
+    border-top-left-radius: 65px;
+    border-top-right-radius: 65px;
+    color: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: normal;
+    line-height: normal;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+/*
+    Pre-footer section
+*/
+
+
+.prefooter{
+    background-color: #f7f7f7; 
+}
+
+.pre-footer-information{
+    width: auto;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.preFooterBlock{
+    padding: 32px;
+    box-sizing: border-box;
+}
+
+.newsletter-form{
+    text-align: center;
+    font-size: 15px;
+}
+
+.newsletter-form-header{
+    width: 85%;
+    margin: auto;
+    color: black;
+}
+
+.newsletter-form-field{
+    display: inline-block;
+}
+
+.buttonWrapper{
+    display: inline-block;
+    width: auto;
+    padding: 6px 3px;
+}
+
+.newsletter-form-submit-button{
+    background-color: black;
+    border: 1px solid #262626 !important;
+    border-bottom-left-radius: 65px;
+    border-bottom-right-radius: 65px;
+    border-top-left-radius: 65px;
+    border-top-right-radius: 65px;
+    color: #fff;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: normal;
+    line-height: normal;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+/*
+    Footer Section
+*/
+
+.footer{
+    background-color: rgb(39, 170, 159);
+    color: #fff;
+}
+
+.inner-footer{
+    max-width: 1020px;
+    width: auto;
+    margin: auto;
+    padding: 64px 32px;   
+}
+
+#site-info{
+    cursor: pointer;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration-color: white;
+    text-transform: uppercase;
+}
+
+#footer-final{
+    margin-top: 27px;
+}
+
+.footer-final-row-content{
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 28.8px;
+    padding-right: 0px;
+    width: 990px;
+    text-align: center;
+}
+

@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
+    "database": "projpw",
+    "multipleStatements": true,
+    "port": "3306"
+} 

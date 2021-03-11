@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8" />
+    <title>World of Sweets</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="/www/styles/styles.css">
+    <link rel="stylesheet" type="text/css" href="/www/styles/styles_content.css">
+    <link rel="stylesheet" type="text/css" href="/www/styles/styles_formRecipe.css">
+    <link rel="stylesheet" type="text/css" href="/www/styles/styles_formMessage.css">
+    <link rel="stylesheet" type="text/css" href="/www/styles/styles_SSO.css">
+    <link rel="stylesheet" type="text/css" href="/www/styles/styles_register.css">
+    <link rel="site icon" type="image/jpg" href="/www/images/logo.png">
+    <script src="/www/scripts/request-handlers.js"></script>
+    <script src="/www/scripts/dom.js"></script>
+    <script src="/www/scripts/recipeDom.js"></script>
+    <script src="/www/scripts/newsDom.js"></script>
+    <script src="/www/scripts/recipe.js"></script>
+    <script src="/www/scripts/news.js"></script>
+    <script src="/www/scripts/ingredients.js"></script>
+    <script src="/www/scripts/instructions.js"></script>
+    <script src="/www/scripts/ajax_get_reqs.js"></script>
+    <script src="/www/scripts/ajax_put_reqs.js"></script>
+    <script src="/www/scripts/ajax_post_reqs.js"></script>
+</head>
+
+
+<!--
+    Main and header
+-->
+
+<body>
+    <div id = "siteWrapper" class = "wrapper">
+        <header id = "header" class = "header">
+            <div class = "inner-header">
+                <div id = "logo-wrapper" class = "logoWrapper">
+                    <div id = "logo-image">
+                        <a href = "javascript:loadHome()">
+                            <img id = "logo" src = "/www/images/logo.png" alt="site logo">
+                        </a>
+                    </div>
+                </div>
+                <div id = "headerNav">
+                    <div id = "mainNavWrapper" class = "navWrapper">
+                        <nav id = "mainNavigation">
+                            <div class = "forum">
+                                <a href =":loadForum()" title ="Forum">Forum</a>
+                            </div>
+                            <div class = "recipies">
+                                <a href ="javascript:showRecipeName() " title ="Recipies">Recipies</a>
+                            </div>
+                            <div class = "news">
+                                <a href="javascript: showNewsHeadline()" title="Dessert News">Dessert News</a>
+                            </div>
+                            <div class = "subnav">
+                                <div class="subnavbtn">More</div>
+                                <div class="subnav-content">
+                                    <a href ="javascript:loadSubmission()" class = "nav-link">Submit Recipe</a>
+                                    <a href ="javascript:loadGame()" class = "nav-link">Ingredient Game</a>
+                                </div>
+                            </div>
+                            <div class = "SignIn">
+                                <a href ="javascript:loadSSO()" class = "SignIn">Sign In</a>
+                                <a onclick = logout(); class = "Logout" style = "display: none">Logout</a>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>    
+        </header> 
+    </div>
+
+<!--
+    pill content
+-->
+
+    <a href ="javascript:loadForm()" class = "nav-link">
+        <div id = "form-pill" class = "widget"> 
+            <div id = "pill-content" class = "pillContent">
+                <div class = "pill-body">
+                    <div class = "pill-body-title">Contact Us</div>
+                    <div class = "pill-body-description">through our contact form</div>
+                </div>
+            </div>
+        </div>
+    </a>
+
+
+<!--
+    Home page
+-->
+
+    <div id="page_home" class = "page" name="page">
+        <div class = "backgroundImage">
+            <img class = "" src = "/www/images/background.jpg" alt="background image">
+        </div> 
+        <div id = "content" class = "main-content">
+            <div id = "content-layout" class = "main-layout">
+                <div id = "content-wrapper" class = "c-wrapper">
+                    <div id = "content-header" class = "c-header">
+                        <div class = "header">
+                            <h1>Your go to place when you crave <br>something sweet!</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class = "post-header">
+                <div class = "centerBlock">
+                    <div id = "centerContent" class = "blockContent">
+                        <p>Chocolate cake has eggs in it, which makes it a perfectly good breakfast!<br>
+                        <em>Bill Cosby</em></p>
+                    </div>
+                </div>
+            </div>
+            <div id = "block" class = "spacerBlock"></div>
+        </div>
+    </div>
+
+  
+<!--
+    Recipe page
+-->
+
+    <div id="page_recipies" class="page" style="display: none" name="page">
+        <div id = "backgroundImage">
+            <img id = "backgroundImgRecipies" src = "/www/images/recipeBanner.png" alt = "recipe banner" >
+        </div> 
+        <div id = "content-nav" class = "contentNav">
+            <nav class = "nav">
+                <ul>
+                    <li class = "linkCollectionHeader">
+                        MORE
+                    </li>
+                    <li class = "linkCollection">
+                        <a href ="javascript:loadSubmission()">Submit Recipe</a>
+                    </li>
+                    <li class = "linkCollection">
+                        <a href ="javascript:loadGame()">Ingredient Game</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        <div id = "content" class = "mainContent">
+            <div id = "content-layout" class = "mainLayout">
+                <div id = "content-wrapper" class = "cWrapper">
+                    <div id = "content-header" class = "cHeader">
+                        <div class = "header">
+                            <h1>Recipe Showcase</h1>
+                        </div>
+                        <table id="recipelist" class="table"></table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<!--
+    Single Recipe With Details page
+-->
+<div id="page_recipe" class="page" style="display: none" name="page">
+    <div id = "content" class = "mainContent">
+        <div id = "content-layout" class = "mainLayout">
+            <div id = "content-wrapper" class = "cWrapper">
+                <div id = "content-header" class = "cHeader">
+                    <div class = "recipedetails"></div>
+                </div>
+            </div>
+        </div>
+    </div>                   
+</div>
+
+
+<!--
+    News page
+-->
+
+<div id="page_news" class="page" style="display: none" name="page">
+    <div id = "backgroundImage">
+        <img id = "backgroundImgNews" src = "/www/images/newsBanner.jpg" alt = "news banner">
+    </div> 
+    <div id = "content-nav" class = "contentNav">
+        <nav class = "nav">
+            <ul>
+                <li class = "linkCollectionHeader">
+                    MORE
+                </li>
+                <li class = "linkCollection">
+                    <a href ="javascript:loadSubmission()">Submit Recipe</a>
+                </li>
+                <li class = "linkCollection">
+                    <a href ="javascript:loadGame()">Ingredient Game</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div id = "content" class = "mainContent">
+        <div id = "content-layout" class = "mainLayout">
+            <div id = "content-wrapper" class = "cWrapper">
+                <div id = "content-header" class = "cHeader">
+                    <div class = "header">
+                        <h1>News</h1>
+                    </div>
+                    <table id="newslist" class="table"></table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--
+Submit recipe page
+-->
+
+<div id="page_submit" class="page" style="display: none" name="page">
+    <div class = "backgroundImage">
+        <img id = "backgroundImgSubmit" src = "/www/images/submitBanner.png" alt = "submit banner">
+    </div>
+    <div id = "content-nav" class = "contentNav">
+        <nav class = "nav">
+            <ul>
+                <li class = "linkCollectionHeader">
+                    MORE
+                </li>
+                <li class = "linkCollection">
+                    <a href ="javascript:loadSubmission()">Submit Recipe</a>
+                </li>
+                <li class = "linkCollection">
+                    <a href ="javascript:loadGame()">Ingredient Game</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div id = "content" class = "mainContent">
+        <div id = "content-layout" class = "mainLayout">
+            <div id = "content-wrapper" class = "cWrapper">
+                <div id = "content-header" class = "cHeader">
+                    <div class = "header">
+                        <h1>Submit Recipe</h1>
+                    </div>
+                    <form id = "recipesubmission">
+                        <label for="recipeName">Recipe Name:</label><br>
+                        <input type="text" id="recipeName" name="recipe name"><br>
+                        <label for="recipeImage">Recipe Image:</label>
+                        <input type="file" id = "recipefile" class="upFile"/>
+                        <label for="file2">File url:</label><br>
+                        <input type="text" id="recipefileURL" class="upFile" placeholder = "/www/images/db/ Filename.ext"><br>
+                        <input type="submitRecipe" value="Submit Recipe" onclick = submitRecipe();>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--
+Ingredient Game page
+-->
+
+<div id="page_game" class="page" style="display: none" name="page">
+    <img id = "backgroundImgGame" src = "/www/images/game.jpg" alt = "game banner" >
+    <div id = "content-nav" class = "contentNav">
+        <nav class = "nav">
+            <ul>
+                <li class = "linkCollectionHeader">
+                    MORE
+                </li>
+                <li class = "linkCollection">
+                    <a href ="javascript:loadSubmission()">Submit Recipe</a>
+                </li>
+                <li class = "linkCollection">
+                    <a href ="javascript:loadGame()">Ingredient Game</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <div id = "content" class = "mainContent">
+        <div id = "content-layout" class = "mainLayout">
+            <div id = "content-wrapper" class = "cWrapper">
+                <div id = "content-header" class = "cHeader">
+                    <div class = "header">
+                        <h1>Ingredient Game</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--
+Message Form page
+-->
+
+<div id="page_form" class="page" style="display: none" name="page">
+    <div class="container">
+        <form id="message">
+          <label for="name">Full Name</label>
+          <input type="text" id="fname" name="fullname" placeholder="Your name">
+          <label for="email">Email</label>
+          <input type="text" id="emailaddress" name="email" placeholder="Your email">
+          <label for="subject">Subject</label>
+          <textarea id="subject" name="subject" placeholder="..." style="height:200px" maxlength="998"></textarea>
+          <input type="button" class="button" value="SEND" onclick="submitMessage();">
+        </form>
+    </div> 
+</div>
+
+<!--
+Sign in content
+-->
+
+<div id="page_login" class="SSOpage" style="display: none" name="page">
+    <div id = "login" class="lform">
+        <h1 id = "tempTitle">Log in</h1>
+        <form id="login_form">
+            <label for="username"><b>Username</b></label>
+            <input type="username" placeholder="Username" name="username" required>
+            <label for="psw"><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw" required>
+            <input type="button" class="button" value="Submit" onclick="requestLogin();"/>
+            <p> Not registered yet? Sign Up!
+                <a href ="javascript:loadRegister()">Register</a>
+            </p>
+        </form>
+    </div>
+</div>
+
+
+<!--
+Sign Up content
+-->
+
+<div id="page_register" class="register" style="display: none" name="page">
+    <div id="register" class="rform">
+        <h1>Register</h1>
+        <form id="register_form">
+            <label for="username"><br><b>Username</b></br></label>
+            <input type="text" placeholder="Enter Username" name="username">
+            <label for="email"><br><b>Email</b></br></label>
+            <input type="text" placeholder="Enter Email" name="email">
+            <label for="psw"><br><b>Password</b></label>
+            <input type="password" placeholder="Enter Password" name="psw">
+            <input type="button" class="button" value="Sign Up" onclick="registerUser();"/>
+        </form>
+    </div>
+</div>
+
+
+<!--
+    Pre-Footer & Footer content
+-->
+
+    <div id = "preFooter" class="pre">
+        <div class = "pre-footer-information">
+            <div id = "preFooter-block" class="preFooterBlock">
+                <div class = "newsletter-form">
+                    <header class = "newsletter-form-header">
+                        <h2 class = "newsletter-form-header-title">SUBSCRIBE!</h2>
+                        <div class = "newsletter-form-header-info">
+                            <p>Sign up today for free </p>
+                        </div>
+                    </header>     
+                    <div class = "newsletter-form-field">
+                        <input id = "email-field" class = "newsletter-form-element" name = "email"
+                                    type = "text" spellcheck = "false" placeholder = "Email Address">
+                    </div>
+                    <div id = "newsletter-form-submit-wrapper" class = "buttonWrapper" data-animation-role = "button">
+                        <button class = "newsletter-form-submit-button" type = "submit" value = "Sign Up" onclick = "requestSubscription();">
+                            <span class = "newsletter-form-button-label">Sign Up</span>
+                            <span class = "newsletter-form-button-icon"></span>
+                        </button>
+                    </div>
+                </div> 
+            </div>   
+        </div>
+    </div>
+    <footer id = "footer" class="footercontent">
+        <div class = "inner-footer">
+            <div id = "site-info">
+                <span class = "site-email-address">worldofsweets@worldofsweets.com</span>
+            </div>
+            <div id = "footer-final" class = "outer-footer">
+                <div class = "footer-final-row">
+                    <div id = "final-row-content" class = "footer-final-row-content">
+                            <p>Powered By - Sugar</p>
+                    </div>
+                </div>           
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+

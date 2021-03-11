@@ -1,0 +1,28 @@
+{
+  "name": "projeto_pw",
+  "version": "1.0.0",
+  "description": "Projeto - Programação para a Web 20/21",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "authors": {
+    "name": "Daniel Lachkeev",
+    "number": 180221029,
+    "name2": "Nuno Rebelo",
+    "number2": 180221107
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
