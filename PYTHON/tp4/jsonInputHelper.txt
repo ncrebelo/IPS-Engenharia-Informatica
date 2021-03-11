@@ -1,0 +1,56 @@
+Users
+POST
+{
+        "email": "marge@simpsons.org",
+        "name": "asdadad",
+        "password": "1234",
+        "username": "d"
+}
+
+PUT
+{
+        "email": "homer123@simpsons.org",
+        "id": 1,
+        "name": "Homer J Simpson",
+        "password": "1234",
+        "username": "homer"
+}
+********************************************************
+Projects
+POST
+{
+	"creation_date": "2020-06-26",
+	"last_updated": "2020-06-26",
+	"title": "Beer",
+	"user_id": 1
+}
+
+PUT
+{
+    "creation_date": "2020-05-01",
+    "id": 2,
+    "last_updated": "2020-05-02",
+    "title": "Eat Less Food",
+    "user_id": 2 
+}
+*********************************************************
+Tasks
+POST
+{
+
+        "completed": 0,
+        "creation_date": "2020-06-26",
+        "project_id": 1,
+        "title": "Drink all the Beer"
+}		
+PUT
+{
+    "completed": 1,
+    "creation_date": "2020-05-10",
+    "id": 3,
+    "project_id": 2,
+    "title": "Eat vegetables everyday with Beer"
+}
+	
+	
+	

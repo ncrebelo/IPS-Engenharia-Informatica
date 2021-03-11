@@ -1,0 +1,39 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Tasklist</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="/text/javascript"  src="/static/script.js" defer></script>
+</head>
+<body>
+
+    <!--
+    login section
+    -->
+    <h1>Log in</h1>
+    <form id="loginform">
+        <input placeholder="Username" name="username"/>
+        <input placeholder="Password" name="password"/>
+        <input type="button" class="button" value="Submit" onclick="signIn()"/>
+    </form>
+
+    <!--
+      REGISTER SECTION
+     -->
+    <h1>Register</h1>
+    <form id="regform">
+        <input placeholder="Name" name="name"/>
+        <input placeholder="Email" name="email"/>
+        <input placeholder="Username" name="username"/>
+        <input placeholder="Password" name="password"/>
+        <input type="button" class="button" value="Sign Up" onclick="addUser()"/>
+    </form>
+
+    <!--
+    main section after user login or register
+    -->
+    <div id="main_page" class="page" style="display:none" name="page">
+        <h1>Tasklist</h1>
+    </div>
+</body>
+</html>
